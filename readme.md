@@ -49,3 +49,5 @@ Les données entrées par l'utilisateur sont validées pour assurer qu'elles cor
 Le serveur écoute sur le port 3000. Vous pouvez le démarrer en exécutant le fichier principal.
 
 N'oubliez pas d'installer les dépendances nécessaires en exécutant `npm install` avant de démarrer le serveur.
+
+Pour tester les requêtes, vous pouvez utiliser la partie Pokémon de ce postman : https://www.postman.com/avionics-candidate-15066024/workspace/ruby/collection/24464897-4326c750-be26-4875-9bdb-d5863380944e?action=share&creator=24464897
